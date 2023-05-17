@@ -1,0 +1,91 @@
+.mask{
+    position: absolute;
+width: 1040px;
+height: 240px;
+left: 385px;
+top: 148px;
+margin-top: -30px;
+margin-left: -90px;
+
+background: #F8B602;
+border-radius: 16px;
+}
+.hel{
+    position: absolute;
+width: 256px;
+height: 54px;
+left: 385px;
+top: 56px;
+
+/* Heading/Heading 1 */
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 36px;
+line-height: 54px;
+/* identical to box height */
+
+
+/* Color/Black */
+
+color: #2E2E2E;
+
+}
+.pages{
+    position: absolute;
+width: 357px;
+height: 96px;
+left: 437px;
+top: 191px;
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 48px;
+color: #FFFFFF;
+}
+.pg{
+    margin-top: -10px;
+}
+.pg1{
+    margin-top: -20px;
+}
+.girl{
+    position: absolute;
+width: 359px;
+height: 239px;
+left: 1042px;
+top: 149px;
+margin-top: -40px;
+margin-left: -100px;
+
+}
+.b{
+    margin-left: 300px;
+    margin-top: -600px;
+}
+.b1{
+    margin-left: 300px;
+
+}
+.b2{
+    margin-left: 350px;
+    margin-top: -160px;
+}
+.b3{
+    margin-left: 470px;
+    margin-top: -160px;
+}
+.b4{
+    margin-left: 580px;
+    margin-top: -160px;
+}
+.b5{
+    margin-left: 690px;
+    margin-top: -160px;
+}
+.b6{
+    margin-left: 790px;
+    margin-top: -160px;
+}
